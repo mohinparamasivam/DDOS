@@ -1,6 +1,12 @@
-1. How to use Hammer [`Watch it`](http://www.youtube.com/watch?v=HVbRUhX2EPo) 
-2. Fork it...
+USE FOR EDUCATIONAL PURPOSE ONLY !!
+I AM NOT RESPONSIBLE FOR ANY OF YOUR ACTION
 
+
+How to use Hammer :
+
+1. git clone https://github.com/mohinparamasivam/DDOS
+2. cd DDOS
+3. python3 hammer.py
 
 
 ##Example Websites for attack ( Use for EDUCATIONAL Purpose Only !! )
