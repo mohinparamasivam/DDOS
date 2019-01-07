@@ -7,3 +7,9 @@
 
 1. www.jammukashmir.nic.in
 2. www.jk.gov.in
+
+
+
+##Check whether website running
+
+www.isitdownrightnow.com
